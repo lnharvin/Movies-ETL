@@ -20,3 +20,9 @@ All code for the above deliverables is located in one file, step by step.
 ![Movie Data Imported](/Resources/movies_query.PNG)
 
 ![Movie Ratings Imported](/Resources/ratings_query.PNG)
+
+## Resources
+
+Two large resource files were omitted from this project because of size limitations. The original data sources can be downloaded from:
+* [The Movie Database (TMDb)](https://www.themoviedb.org/) ... movies_metadata.csv
+* [Kaggle zip file](https://www.kaggle.com/rounakbanik/the-movies-dataset/download) contains ratings.csv
