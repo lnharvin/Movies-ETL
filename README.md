@@ -6,15 +6,17 @@ To create an automated pipeline that takes in new data, performs the appropriate
 
 ## Deliverables
 
-* Deliverable 1: Write an ETL Function to Read Three Data Files
-* Deliverable 2: Extract and Transform the Wikipedia Data
-* Deliverable 3: Extract and Transform the Kaggle data
-* Deliverable 4: Create the Movie Database
+* Deliverable 1: [Write an ETL Function to Read Three Data Files](ETL_function_test.ipynb)
+* Deliverable 2: [Extract and Transform the Wikipedia Data](ETL_clean_wiki_movies.ipynb)
+* Deliverable 3: [Extract and Transform the Kaggle data](ETL_clean_kaggle_data.ipynb)
+* Deliverable 4: [Create the Movie Database](ETL_create_database.ipynb)
 
 ## Results
+![Movies with Ratings Dataframe Screenshot](/images/movies_with_ratings.PNG)
 
-All code for the above deliverables is located in one file, step by step.
-[Click here to review Python Script](WikiMovieKaggleDataCombined.ipynb)
+![Movies Dataframe Screenshot](/images/movies_df.PNG)
+
+[Database import statistics](/images/db_import_stats.PNG)
 
 ### Database Output
 ![Movie Data Imported](/Resources/movies_query.PNG)
